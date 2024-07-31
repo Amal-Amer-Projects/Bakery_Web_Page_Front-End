@@ -1,3 +1,3 @@
 # Bakery_Web_Page_Front-End
 
-to open webpage open idex.html
+To surf the webpage open index.html
